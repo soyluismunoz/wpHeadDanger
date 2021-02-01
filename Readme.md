@@ -2,7 +2,7 @@
 
 ## Sobre el plugin
 
-Plugin sencillo para ocultar la versión de wordpress, ocultar el *** Top bar *** de wordpress, entre otros header establecidos por defecto por wordpress
+Plugin sencillo para ocultar la versión de wordpress, ocultar el ***Top bar*** de wordpress, entre otros header establecidos por defecto por wordpress
 
 
 ## Instalación 
