@@ -13,8 +13,9 @@ Crear carpeta ***mu-plugins***
 wp-content/mu-plugins
 ```
 
-Subir plugin a traves del administrador de archivos de tu servidor
+Subir plugin a traves del administrador de archivos de tu servidor unicamente el archivo ``` php ```
 
 ``` 
 root-path/wp-content/mu-plugins 
 ```
+
